@@ -4,8 +4,11 @@ Proyek ini adalah aplikasi mobile yang dibuat menggunakan React Native. Aplikasi
 
 ## Informasi
 Nama : Rafida Zahra Mahirani H
+
 NIM  : 2130511060
+
 Mata Kuliah  : Pemrograman Mobile 2
+
 Dosen Pengampu  : Prajoko, M.Kom.
 
 ## Fitur 
