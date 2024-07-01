@@ -1,11 +1,26 @@
-# Sample Snack app
+# Aplikasi Daftar Kontak Teman Kelas
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Proyek ini adalah aplikasi mobile yang dibuat menggunakan React Native. Aplikasi ini menampilkan data kontak teman kelas dengan detail kampus dan foto. Pengguna dapat melihat rincian setiap kontak dengan menekan tombol 'View Details"
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+## Informasi
+Nama : Rafida Zahra Mahirani H
+NIM  : 2130511060
+Mata Kuliah  : Pemrograman Mobile 2
+Dosen Pengampu  : Prajoko, M.Kom.
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+## Fitur 
+1. Menampilkan daftar kontak mahasiswa
+2. Menampilkan detail setiap kontak saat tombol "View Details" ditekan
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+## Struktur Proyek
+- `App.js` : File utama yang mengatur navigasi antara layar `Home` dan `About`.
+- `Home.js` : Layar utama yang menampilkan daftar kontak.
+- `About.js` : Layar yang menampilkan detail kontak yang dipilih.
+- `kontak.js` : Komponen individual untuk menampilkan kontak.
+- `Assets` : Folder untuk menyimpan file image yang digunakan untuk menyimpan foto dari kontak.
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+## Tools
+- Expo.dev
+
+## Link Project 
+https://snack.expo.dev/@rafidazahra/tugas10-mobile2?platform=android 
